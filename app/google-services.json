@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438182834234",
+    "project_id": "login3-c7847",
+    "storage_bucket": "login3-c7847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438182834234:android:8b32a4e0e7686cf9f60503",
+        "android_client_info": {
+          "package_name": "com.vku.doancoso3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo5yq37qdLn7unGpdvEamg-9tRrvLUqJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

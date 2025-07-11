@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoAnCoSo3</string>
+    <string name="category1">Cheeseburger</string>
+    <string name="category2">Hamburger</string>
+    <string name="c1_hambuger1">Wendy Burger</string>
+    <string name="c1_hambuger2"> Bacon burger</string>
+    <string name="c1_hambuger3">  chicken  cheese </string>
+
+    <string name="c2_hambuger1">Verggie Burger</string>
+    <string name="c2_hambuger2">Chicken Burger</string>
+    <string name="c2_hambuger3">Fried  Burger</string>
+</resources>
