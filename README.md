@@ -10,25 +10,19 @@ Firebase được tích hợp để xử lý xác thực người dùng, lưu tr
 
 ### 🏠 Giao diện chính & chi tiết
 
-<p align="center">
-  <img src="UI/home.png" width="200"/>
-  <img src="UI/products.png" width="200"/>
-  <img src="UI/detail.png" width="200"/>
-</p>
+<img src="UI/home.png" width="250"/>
+<img src="UI/products.png" width="250"/>
+<img src="UI/detail.png" width="250"/>
 
 ### 🛒 Giỏ hàng & thanh toán
 
-<p align="center">
-  <img src="UI/cart.png" width="200"/>
-  <img src="UI/payment.png" width="200"/>
-</p>
+<img src="UI/cart.png" width="250"/>
+<img src="UI/payment.png" width="250"/>
 
 ### 💬 Trò chuyện & trạng thái sản phẩm
 
-<p align="center">
-  <img src="UI/chatting.png" width="200"/>
-  <img src="UI/state_product.png" width="200"/>
-</p>
+<img src="UI/chatting.png" width="250"/>
+<img src="UI/state_product.png" width="250"/>
 
 ---
 
